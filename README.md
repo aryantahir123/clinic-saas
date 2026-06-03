@@ -6,7 +6,9 @@ ClinicAI is a premium, full-stack, multi-role Clinical Administration and Diagno
 
 ## 🚀 Live Demo
 *   **Frontend Client**: [https://clinic-saas-client.vercel.app](https://clinic-saas-client.vercel.app)
-*   **Backend REST API**: [https://clinic-saas-api.onrender.com](https://clinic-saas-api.onrender.com)
+*   **Backend REST API**: [https://clinic-saas-production-6ed3.up.railway.app](https://clinic-saas-production-6ed3.up.railway.app)
+
+
 
 ---
 
