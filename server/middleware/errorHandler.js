@@ -27,10 +27,7 @@ const errorHandler = (err, req, res, next) => {
 
   // 4. Default Internal Server Error
   const statusCode = err.statusCode || 500;
-  const message =
-    process.env.NODE_ENV === 'production'
-      ? 'Internal server error'
-      : err.message || 'Internal server error';
+  const message = err.message || 'Internal server error';
 
   return errorResponse(res, message, statusCode);
 };

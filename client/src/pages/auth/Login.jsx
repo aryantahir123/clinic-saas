@@ -199,7 +199,7 @@ const Login = () => {
 
               <button
                 type="button"
-                onClick={() => handleQuickFill('different@patient.com', 'Patient@1234')}
+                onClick={() => handleQuickFill('patient@clinic.com', 'Patient@1234')}
                 className="p-2 bg-slate-900 hover:bg-indigo-650/10 border border-slate-800 hover:border-indigo-500/20 rounded-xl text-left transition-all"
               >
                 <span className="block font-black text-white">Patient Profile</span>
